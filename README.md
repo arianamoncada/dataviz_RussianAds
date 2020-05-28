@@ -1,7 +1,7 @@
 # Data Visualization &amp; Sentiment Analysis in Python
 <img src="https://img.shields.io/badge/python-3.7-blue.svg"> <img src="https://img.shields.io/badge/vaderSentiment-3.2.1-blue.svg"> <img src="https://img.shields.io/badge/rpy2-3.0.5-blue.svg"> <img src="https://img.shields.io/badge/ggplot2-R-orange.svg">
 
-This project utilizes *rpy2*, an interface which allows you to run **R** code imbedded in a **Python** process. For this project, all data manipulation was done in Python using the *pandas* library then the data was passed into R using rpy2. All visualizations were created using the R *ggplot2* library.
+This project utilizes *rpy2*, an interface which allows you to run **R** code imbedded in a **Python** process (Jupyter Notebook). All data manipulation was done in Python using the *pandas* library then the data was passed into R using rpy2. Visualizations were created using the R *ggplot2* library.
 
 ## Project Team Members:
 - [Ariana Moncada](https://github.com/arianamoncada)
